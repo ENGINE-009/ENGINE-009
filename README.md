@@ -14,6 +14,7 @@ Also hoping one day to become a famous developer that will contribute in other p
 
 ## Socials:
 https://guns.lol/engine009
-discord user: engine009
+
+# discord user: engine009
 
 ## If you are looking for reaching out to me or comission me or work with me dm me on discord or email realengine009@gmail.com
