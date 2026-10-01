@@ -6,11 +6,11 @@ Also hoping one day to become a famous developer that will contribute in other p
 
 ## Some of the projects I have been involved with:
 
-**Engineer bot**
-**Recent tab list**
-**Lava lamp bot**
-**Weather bot**
-**Butcher**
+**Engineer bot,**
+ **Recent tab list,**
+ **Lava lamp bot,**
+ **Weather bot,**
+ **Butcher,**
 
 ## Socials:
 https://guns.lol/engine009
