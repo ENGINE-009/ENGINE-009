@@ -1,16 +1,19 @@
-## Hi there 👋
+## Info:
 
-<!--
-**ENGINE-009/ENGINE-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I am engine and I am a teenager who likes to code and create unique stuff. 
+I am also the owner of team engineers which is a new team that will make some upcoming projects so stay tuned!
+Also hoping one day to become a famous developer that will contribute in other projects! :D
 
-Here are some ideas to get you started:
+## Some of the projects I have been involved with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Engineer bot
+# Recent tab list
+# Lava lamp bot
+# Weather bot
+# Butcher
+
+## Socials:
+https://guns.lol/engine009
+discord user: engine009
+
+## If you are looking for reaching out to me or comission me or work with me dm me on discord or email realengine009@gmail.com
